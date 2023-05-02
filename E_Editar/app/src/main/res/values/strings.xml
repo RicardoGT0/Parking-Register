@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E_Editar</string>
+    <string name="id_registro">ID de Registro</string>
+    <string name="actualizar_foto">Enviar Foto</string>
+    <string name="tomar_foto">Tomar Foto</string>
+    <string name="vista_previa">Vista Previa</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">E_Entrada</string>
+    <string name="enviar">Enviar</string>
+    <string name="nuevo_registro">Nuevo Registro</string>
+    <string name="tomar_foto">Tomar Foto</string>
+    <string-array name="vehiculos">
+        <item>Tipo de Vehiculo</item>
+        <item>Automóvil</item>
+        <item>Motocicleta</item>
+    </string-array>
+    <string-array name="Estacionamientos">
+        <item></item>
+    </string-array>
+</resources>

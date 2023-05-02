@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">E_Salida</string>
+    <string name="leer_tarjeta">Leer Tarjeta</string>
+    <string name="registrar_salida">Registrar Salida</string>
+</resources>
